@@ -1,0 +1,70 @@
+body{
+    /* background-image: url('cape.jpg');
+       background-size: cover; */
+    /* background-color: rgb(122, 75, 167); */
+    /* background-color: chartreuse; */
+       background-color:white;
+}
+h1{
+    color: green;
+    text-align: center;
+    padding-top: 2%;
+    //background-color:plum;
+    //border-radius: 20px;
+    font-family: Times New Roman;
+}
+img{
+    height:250px;
+    width:300px;
+    padding: 5%;
+}
+.id{
+    height:30px;
+    width:500px;
+    color:blue;
+    border-radius: 10px;
+    background-color: transparent;
+    padding-left: 1%;
+}
+.id1{
+    height:30px;
+    color:blue;
+    background-color: transparent;
+    border-radius: 10px;
+}
+ul li{
+    list-style: none;
+    float: left;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    
+}
+button{
+    color:yellow;
+    font-size: 80%;
+    /* font: bold; */
+    background-color: white;
+    border-radius:10px;
+    font-family: Tw Cen MT Condensed Extra Bold;
+    height:30px;
+    width:110px;
+}
+button:hover{
+    color:white;
+    font-family:Times New Roman;
+    /* background-size: cover; */
+    background-color:yellow;
+}
+.move{
+    text-align:center;
+    color:white;
+}
+li a{
+    text-decoration: none;
+}
+h2{
+    color: white;
+    width:300px;
+    text-align: center;
+    padding-left: 40%;
+}
