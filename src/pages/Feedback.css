@@ -1,13 +1,11 @@
 body{
-    background-color:salmon;
+    background-color: salmon;
 }
 h1{
-    color: green;
+    color: blue;
     text-align: center;
     padding-top: 2%;
-    //background-color:plum;
-    //border-radius: 20px;
-    font-family: Times New Roman;
+    border-radius: 20px;
 }
 img{
     height:250px;
@@ -17,14 +15,14 @@ img{
 .id{
     height:30px;
     width:300px;
-    color:blue;
+    color: yellow;
     border-radius: 10px;
     background-color: transparent;
     padding-left: 1%;
 }
 .id1{
     height:30px;
-    color:green;
+    color:white;
     background-color: transparent;
     border-radius: 10px;
 }
@@ -32,13 +30,13 @@ ul li{
     list-style: none;
     float: left;
     padding-left: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 5%;
+    padding-top: 5%;
     
 }
 button{
     color:yellow;
     font-size: 80%;
-    /* font: bold; */
     background-color: white;
     border-radius:10px;
     font-family: Tw Cen MT Condensed Extra Bold;
@@ -64,3 +62,45 @@ h2{
     text-align: center;
     padding-left: 40%;
 }
+.sign{
+    color:blue;
+    padding-top: 18%;
+    padding-left: 50%;
+    border-radius: 10px;
+}
+h2 a{
+ text-decoration: none;
+ padding-left: 25%;
+  
+}
+.c1{
+    color:blue;
+}
+.c2{
+    color:blue;
+}
+.c3{
+    color:white;
+    background-color:blue;
+}
+.sign form{
+    background-color:gray;
+    width:500px;
+    height:180px;
+    border-radius:10px;
+    text-align:center;
+    padding-right:5%;
+    padding-left:5%;
+    padding-top:5%;
+}
+form h2 button{
+    width:160px;
+    background-color:salmon;
+    color:blue;
+
+}
+
+
+
+
+

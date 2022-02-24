@@ -3,7 +3,7 @@ import React from 'react';
 class Home extends React.Component{
   render(){
      return( <div>
-
+       <body>
         <h1><img class ="img1" src = "assets/images/b.jpg"/>MALAWI TOURISM</h1>
          <br/>
         <form>
@@ -11,22 +11,25 @@ class Home extends React.Component{
             <br/>
             <li><input class = "id1" type = "submit" value = "Search"/></li>
             <br/>
-        </form>        
-        <li><a href = "Home.html">HOME</a></li>
+        </form>
+        <li><button><a href = "home.js">HOME</a></button></li>
+    <li><button ><a href = "destination.js">DESTINATION</a></button></li>
+    <li><button><a href = "gallery.js">GALLERY</a></button></li>
+    <li><button ><a href = "feedback.js">FEEDBACK</a></button></li>        
+        {/* <li><a href = "home.js">HOME</a></li>
         
-        <li><a href = "#">DESTINATION</a></li>
+        <li><a href = "destination.js">DESTINATION</a></li>
         <li><a href = "gallery.js">GALLERY</a></li>
-        <li><a href = "mailto:patrickkamphulusa@gmail.com">FEEDBACK</a></li>
+        <li><a href = "feedback.js">FEEDBACK</a></li> */}
        
         <div>
-        <form class = "sign">
-        <h2>Malawi Tourism</h2>
-        <br/>
-    <a href = "SignUp.html"><input type = "button" value = "SignUp"/></a>
-    <a href = "#"><input type = "button" value = "SignIn"/></a>
-    </form>
+          <br/>
+          <br/>
+          <footer>
+    <h3>The warm heart of africa</h3>
+</footer>
     </div>
-
+</body>
 
 
     </div>
