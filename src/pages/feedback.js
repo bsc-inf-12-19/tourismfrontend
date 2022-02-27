@@ -6,7 +6,7 @@ class Feedback extends React.Component{
 
     <div>
 
-<body>
+{/* <body> */}
 <h1>Feedback</h1>
     {/* <nav> */}
         {/* <ul>
@@ -32,7 +32,7 @@ class Feedback extends React.Component{
    <input className="c3" type = "submit" placeholder="submit"/> 
 </form>
 </div>
-</body>
+{/* </body> */}
     </div> 
   );
          

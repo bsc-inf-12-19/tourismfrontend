@@ -6,7 +6,7 @@ class Destination extends React.Component{
      return( <div>
 
 
-<body>
+{/* <body> */}
     <h1>POPULAR DESTINATIONS</h1>
     <div className = "move"/>
     {/* <br/> */}
@@ -49,7 +49,7 @@ class Destination extends React.Component{
   <img src = "/assets/images/ga3.jpg" alt="Mulanje mountain" />
   </section>
 
-</body>
+{/* </body> */}
 
 
     </div>
