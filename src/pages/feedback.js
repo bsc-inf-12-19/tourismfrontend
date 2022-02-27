@@ -1,6 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import "./Feedback.css";
 class Feedback extends React.Component{
+    // const feedback = () =>{
+    //     fetch("http://localhost:8080/api/v1/tourism").then(response => response.json()).then(data) => console.log(data)
+    // }
+    // render()
+    // feeback()
   render(){
      return(
     <div>
