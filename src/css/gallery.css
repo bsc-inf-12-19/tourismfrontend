@@ -1,23 +1,16 @@
 body{
-    /* background-image: url('cape.jpg');
-       background-size: cover; */
-    /* background-color: rgb(122, 75, 167); */
-    /* background-color: chartreuse; */
-       background-color:salmon;
-       opacity:90%;
+    /* background-color:gold; */
 }
 h1{
     color: green;
     text-align: center;
     padding-top: 2%;
-    //background-color:plum;
-    //border-radius: 20px;
     font-family: Times New Roman;
 }
 img{
     height:250px;
-    width:300px;
-    padding: 5%;
+    width:350px;
+    padding: 3%;
 }
 .id{
     height:30px;
@@ -29,7 +22,7 @@ img{
 }
 .id1{
     height:30px;
-    color:white;
+    color:green;
     background-color: transparent;
     border-radius: 10px;
 }
@@ -43,7 +36,6 @@ ul li{
 button{
     color:yellow;
     font-size: 80%;
-    /* font: bold; */
     background-color: white;
     border-radius:10px;
     font-family: Tw Cen MT Condensed Extra Bold;
@@ -53,7 +45,6 @@ button{
 button:hover{
     color:white;
     font-family:Times New Roman;
-    /* background-size: cover; */
     background-color:yellow;
 }
 .move{
@@ -68,26 +59,4 @@ h2{
     width:300px;
     text-align: center;
     padding-left: 40%;
-}
-p{
-    color:white;
-}
-
-section.sec1{
-    width: 100%;
-    height: 100vh;
-    background: url(assets/images/liwo3.jpg);
-    background-size: cover;
-}
-section.sec2{
-    width: 100%;
-    height: 100vh;
-    background: url(assets/images/mount1.jpg);
-    background-size: cover;
-}
-section.sec3{
-    width: 100%;
-    height: 100vh;
-    background: url(assets/images/cape.jpg);
-    background-size: cover;
 }

@@ -1,5 +1,5 @@
 body{
-    background-color: salmon;
+    /* background-color: salmon; */
 }
 h1{
     color: blue;
@@ -71,20 +71,25 @@ h2{
 h2 a{
  text-decoration: none;
  padding-left: 25%;
+ color:white;
   
 }
 .c1{
     color:blue;
+    /* padding-top: 5%; */
+    float: left;
 }
 .c2{
     color:blue;
+    float: left;
 }
 .c3{
     color:white;
     background-color:blue;
+    float: left;
 }
 .sign form{
-    background-color:gray;
+    /* background-color:gray; */
     width:500px;
     height:180px;
     border-radius:10px;
@@ -96,7 +101,7 @@ h2 a{
 form h2 button{
     width:160px;
     background-color:salmon;
-    color:blue;
+    /* color:blue; */
 
 }
 

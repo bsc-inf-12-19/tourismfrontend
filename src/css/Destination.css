@@ -1,17 +1,16 @@
 body{
-    background-color:salmon;
+       background-color:black;
+       opacity:90%;
 }
 h1{
     color: green;
     text-align: center;
     padding-top: 2%;
-    //background-color:plum;
-    //border-radius: 20px;
     font-family: Times New Roman;
 }
 img{
-    height:250px;
-    width:300px;
+    height:500px;
+    width:1200px;
     padding: 5%;
 }
 .id{
@@ -24,7 +23,7 @@ img{
 }
 .id1{
     height:30px;
-    color:green;
+    color:white;
     background-color: transparent;
     border-radius: 10px;
 }
@@ -38,7 +37,6 @@ ul li{
 button{
     color:yellow;
     font-size: 80%;
-    /* font: bold; */
     background-color: white;
     border-radius:10px;
     font-family: Tw Cen MT Condensed Extra Bold;
@@ -48,7 +46,6 @@ button{
 button:hover{
     color:white;
     font-family:Times New Roman;
-    /* background-size: cover; */
     background-color:yellow;
 }
 .move{
@@ -63,4 +60,8 @@ h2{
     width:300px;
     text-align: center;
     padding-left: 40%;
+}
+p{
+    color:blue;
+    text-align: center;
 }

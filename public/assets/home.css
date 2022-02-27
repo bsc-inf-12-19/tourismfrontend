@@ -10,7 +10,7 @@ h1{
     color: green;
 }
 body{
-    background-image: url("assets/images/cape.jpg");
+    background-image: url('cape.jpg');
     background-size: cover;
     background-color: salmon;
 }
@@ -78,7 +78,7 @@ li a{
     /* padding-left: 60%;    */
 }
 nav{
-    height: 80px;
+    height: 30px;
     width:100%;
     padding-top: 2%;
     border-radius: 10px;

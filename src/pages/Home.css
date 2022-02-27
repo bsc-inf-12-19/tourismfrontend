@@ -9,9 +9,9 @@ h1{
     font-family: Imprint MT Shadow;
 }
 body{
-    background-image: url('cape.jpg');
+    /* background-image: url('cape.jpg'); */
     background-size: cover;
-    //background-color:salmon;
+    background-color:plum;
 }
 .id{
     height:30px;
@@ -79,6 +79,7 @@ nav{
     width:100%;
     padding-top: 2%;
     border-radius: 10px;
+    padding-left: 5%;
     /* background-color:gray;
     opacity:85%; */
 }
