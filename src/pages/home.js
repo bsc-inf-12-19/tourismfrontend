@@ -25,7 +25,14 @@ class Home extends React.Component{
 <br/>
       <h2>Experience the wonders of malawi nature</h2>
       <br/>
-      <marquee><h1>Visit different tourist site within malawi and experience the beauty of malawi nature, including its massive lake Malawi, the mulanje mountain, zomba plateua, liwonde national park, and many other different amazing palces within malawi. For more check out the gallery and destination sections</h1></marquee>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <marquee><h>Visit different tourist site within malawi and experience the beauty of malawi nature, including its massive lake Malawi, the mulanje mountain, zomba plateua, liwonde national park, and many other different amazing palces within malawi. For more check out the gallery and destination sections</h></marquee>
+    
     </div>
      );
          
