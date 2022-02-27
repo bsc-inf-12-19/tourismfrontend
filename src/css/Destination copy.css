@@ -3,15 +3,15 @@ body{
        background-size: cover; */
     /* background-color: rgb(122, 75, 167); */
     /* background-color: chartreuse; */
-       background-color: orchid;
-       opacity:90%;
-}
+       /* background-color: orchid; */
+       /* opacity:90%;
+} */
 h1{
     color: green;
     text-align: center;
     padding-top: 2%;
-    //background-color:plum;
-    //border-radius: 20px;
+    /* //background-color:plum;
+    //border-radius: 20px; */
     font-family: Times New Roman;
 }
 img{
