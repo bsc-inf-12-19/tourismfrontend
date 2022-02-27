@@ -9,25 +9,6 @@ class Gallery extends React.Component{
     <h1>MalawiTourism gallery</h1>
     <div className = "move">
       </div>
-    {/* <br/> */}
-    {/* <nav> */}
-    {/* <ul> */}
-        {/* <div> */}
-            {/* <form>
-                <li><input  className = "id" type = "search" placeholder = "Search..."/></li>
-                <li><input className = "id1" type = "submit" value = "Search"/></li>
-            </form> */}
-    {/* <li><button><a href = "home.js">HOME</a></button></li>
-    <li><button ><a href = "destination.js">DESTINATION</a></button></li>
-    <li><button><a href = "gallery.js">GALLERY</a></button></li>
-    <li><button ><a href = "feedback.js">FEEDBACK</a></button></li> */}
-{/* </div> */}
-{/* </ul> */}
-{/* </nav> */}
-
-{/* <br/>
-<br/>
-<br/> */}
     <h2>The warm heart of africa</h2>
 
   

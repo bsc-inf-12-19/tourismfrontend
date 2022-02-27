@@ -4,31 +4,8 @@ import './Destination.css';
 class Destination extends React.Component{
   render(){
      return( <div>
-
-
-{/* <body> */}
     <h1>POPULAR DESTINATIONS</h1>
     <div className = "move"/>
-    {/* <br/> */}
-    {/* <nav> */}
-    {/* <ul> */}
-        {/* <div>
-            <form>
-                <li><input  className = "id" type = "search" placeholder = "Search..."/></li>
-                <li><input className = "id1" type = "submit" value = "Search"/></li>
-            </form> */}
-    {/* <li><button><a href = "Home.html">HOME</a></button></li>
-    <li><button><a href = "Destination.html">DESTINATION</a></button></li>
-    <li><button><a href = "gallery.html">GALLERY</a></button></li>
-    <li><button><a href = "Feedback.html">FEEDBACK</a></button></li> */}
-{/* </div> */}
-{/* </ul> */}
-{/* </nav> */}
-
-{/* <br/>
-<br/>
-<br/> */}
-  
    <h1>Liwonde National Park</h1>
    <p>Liwonde national park is located in the southern part of malawi
     on the edge of shire river, the largest river in malawi</p>
@@ -48,8 +25,6 @@ class Destination extends React.Component{
   <section className = "content">
   <img src = "/assets/images/ga3.jpg" alt="Mulanje mountain" />
   </section>
-
-{/* </body> */}
 
 
     </div>

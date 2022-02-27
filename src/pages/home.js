@@ -18,8 +18,6 @@ class Home extends React.Component{
       <img src = "/assets/images/ga3.jpg" alt="Mulanje mountain"/>
       <img src = "/assets/images/ga5.jpg" alt="Mulanje mountain"/>
       <img src = "/assets/images/ga11.jpg" alt="Mulanje mountain"/>
-      <br/>
-    
     </div>
      );
          
