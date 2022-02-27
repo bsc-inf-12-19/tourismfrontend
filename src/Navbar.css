@@ -9,6 +9,9 @@
     /* padding: 1%; */
     /* padding-left: 30%; */
 }
+.navbar a:hover{
+    color:white;
+}
 .navbar .rightSide{
     flex: 50%;
     height: 100%;

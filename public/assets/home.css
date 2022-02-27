@@ -62,7 +62,8 @@ button:hover{
     float: left;
 }
 h2{
-    color: gold;
+    color:green;
+    font-family: Castellar;
 }
 li a{
     text-decoration: none;
