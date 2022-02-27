@@ -4,6 +4,7 @@ class Home extends React.Component{
   render(){
      return( <div>
        <h1>WELCOME TO MALAWI TOURISM</h1>
+       <br/>
        <form>
             <li><input  className = "id" type = "search" placeholder = "Search..."/></li>
             <li><input class = "id1" type = "submit" value = "Search"/></li>
@@ -23,6 +24,7 @@ class Home extends React.Component{
 <br/>
 <br/>
       <h2>Experience the wonders of malawi nature</h2>
+      <br/>
       
     </div>
      );

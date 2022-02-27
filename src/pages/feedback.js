@@ -20,7 +20,7 @@ class Feedback extends React.Component{
         <li><button ><a href = "Feedback.html">FEEDBACK</a></button></li> */}
     {/* </ul> */}
     {/* </nav> */}
-    <h2><a href = "mailto:patrickkamphulusa@gmail.com">Email</a></h2> 
+    <h2><a href = "mailto:patrickkamphulusa@gmail.com">click to email</a></h2> 
     <div className="sign">
     <form>
     <input  className= "c1" type = "text" placeholder = "Enter your name"/>

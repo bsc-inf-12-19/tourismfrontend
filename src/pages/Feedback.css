@@ -1,6 +1,4 @@
-body{
-    /* background-color: salmon; */
-}
+
 h1{
     color: blue;
     text-align: center;
@@ -46,7 +44,6 @@ button{
 button:hover{
     color:white;
     font-family:Times New Roman;
-    /* background-size: cover; */
     background-color:yellow;
 }
 .move{
@@ -76,7 +73,6 @@ h2 a{
 }
 .c1{
     color:blue;
-    /* padding-top: 5%; */
     float: left;
 }
 .c2{
@@ -89,7 +85,6 @@ h2 a{
     float: left;
 }
 .sign form{
-    /* background-color:gray; */
     width:500px;
     height:180px;
     border-radius:10px;
@@ -101,7 +96,6 @@ h2 a{
 form h2 button{
     width:160px;
     background-color:salmon;
-    /* color:blue; */
 
 }
 
